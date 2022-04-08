@@ -2,30 +2,34 @@
 var config = {
   
     texts: [
-        "送给我",      
-        "喜欢的豆豆",  
+        "送给",
+        "亲爱的豆豆",
         "生日快乐",
         "也祝你今年的目标能够实现",
         "也希望能有机会约你去滑雪",
         "去自驾游",
-        "开开心心",
-        "快快乐乐",
-        "生日快乐",
+        "去走遍大江南北",
+        "人生要开开心心",
+        "日常要快快乐乐",
+        "衷心祝你生日快乐",
+        "快许个愿吧",
+        "",
+        "",
+        "快吹蜡烛吧",
     ],
  
     imgs: {
-        "豆豆 生日快乐": "./imgs/cute.jpeg",
-       
+        //"豆豆生日快乐": "imgs/doudou.jpeg",
     },
     
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "胖胖生日快乐",
-        story: "給最口愛的胖胖的訊息",
+        turn_on: "来吧 点击这里马上开始咯",
+        play: "放首音乐吧，边听边看~ ",
+        bannar_coming: "点一下 看看有什么惊喜发生",
+        balloons_flying: "嗯 好像少了点什么东西，要不你在点下试试看 ",
+        cake_fadein: "是少了...蛋糕吗？",
+        light_candle: "好像还缺点什么，快快快 暴击它",
+        wish_message: "豆豆 生日快乐",
+        story: "愿一直都在",
     }
 };

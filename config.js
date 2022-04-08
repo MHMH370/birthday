@@ -21,7 +21,7 @@ var config = {
     ],
  
     imgs: {
-        //"豆豆生日快乐": "imgs/doudou.jpeg",
+        "豆豆": "imgs/dd.jpeg",
     },
     
     desc: {

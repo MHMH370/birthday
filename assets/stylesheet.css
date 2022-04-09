@@ -970,6 +970,7 @@ audio {
 
 .bannar {
 	max-width: 100%;
+	margin-top: 1px;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
@@ -1252,7 +1253,7 @@ audio {
 .balloon-border{
 	position: fixed;
 	top:100%;
-	opacity: 0.2;
+	opacity: 0.5;
 	z-index: 9999;
 }
 .control-panel {
@@ -1265,7 +1266,7 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 70px;
 }
 .message {
 	margin-top: 200px;

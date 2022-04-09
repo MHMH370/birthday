@@ -1252,7 +1252,7 @@ audio {
 .balloon-border{
 	position: fixed;
 	top:100%;
-	opacity: 0.5;
+	opacity: 0.2;
 	z-index: 9999;
 }
 .control-panel {

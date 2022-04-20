@@ -37,7 +37,7 @@ var config = {
     
     desc: {
         turn_on: "来吧 点击这里马上开始咯",
-        play: "把手机声音打开，边听周董的歌边看~ ",
+        play: "把手机声音打开，边听周董的歌边看",
         bannar_coming: "点一下 看看有什么惊喜发生",
         balloons_flying: "嗯 好像少了点什么东西，要不你在点下试试看 ",
         cake_fadein: "是少了...蛋糕吗？",
